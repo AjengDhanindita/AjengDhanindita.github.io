@@ -182,7 +182,7 @@ h1.name {
 /* Achievements */
 
 
-.cards {
+/*.cards {
 	max-width: 1120px;
 	display: block;
 	margin-top: 280px;
@@ -198,59 +198,9 @@ h1.name {
 	border-radius: 10px;
 	text-align: center;
 	padding-top: 50px
-}
-
-.card-active , .card:hover{
-	transform: scale(1.02);
-	transition: 0.5s;
-	background-color: #fff;
-	box-shadow: 0px 5px 50px -8px #ddd;
-	cursor: pointer;
-}
+}*/
 
 
-.skill-level {
-	display: inline-block;
-	max-width: 160px;
-}
-
-.skill-level span {
-	font-size: 35px;
-	font-weight: 300;
-	color: #5B6A9A;
-	vertical-align: top;
-}
-
-.skill-level h2 {
-	font-size: 95px;
-	font-weight: 300;
-	display: inline-block;
-	vertical-align: top;
-	color: #5B6A9A;
-	letter-spacing: -5px;
-}
-
-.skill-meta {
-	vertical-align: top;
-	display: inline-block;
-	max-width: 300px;
-	text-align: left;
-	margin-top: 15px;
-	margin-left: 15px;
-}
-
-.skill-meta h3 {
-	font-size: 20px;
-	font-weight: 800;
-	color: #5B6A9A;
-	margin-bottom: 5px;
-}
-
-.skill-meta span{
-	color: #81899C;
-	line-height: 20px;
-	font-size: 16px;
-}
 
 /* Achievements ends */
 
