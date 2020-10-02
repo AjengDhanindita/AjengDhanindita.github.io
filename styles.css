@@ -7,9 +7,9 @@
 
 /*Load google font*/
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
-@import url('https://fonts.googleapis.com/css?family=poppins');
+@import url('https://fonts.googleapis.com/css?family=Poppins::400,700,900');
 <link rel="stylesheet"
-  href="https://fonts.googleapis.com/css?family=Lato">
+  href="https://fonts.googleapis.com/css?family=Poppins">
 
 
 
@@ -51,7 +51,7 @@ a:hover {
 
 body {
 	line-height: 1;
-	font-family: Lato;
+	font-family: Poppins, sans-serif;
 	text-rendering : optimizeLegibility;
 	-webkit-font-smoothing : antialiased;
 	font-size: 14px;
